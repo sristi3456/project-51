@@ -1,0 +1,21 @@
+.header{
+    background-color: #e70c0c;
+}
+.menue{
+    background-color:#f8f40b;
+}
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #0ce7ca;
+}
+.origami1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #a90ce7;
+}
+body{
+    background-color: #e70c9e;
+}
